@@ -28,8 +28,8 @@
   ## Application walkthrough video
   The application walkthrough video can be viewed [here](#).
 
-  ## README.md generated using the application
-  The README.md generated using the application can be found [here](https://github.com/capg84/team-profile-generator/tree/main/dist/index.html).
+  ## index.html generated using the application
+  The index.html generated using the application can be found [here](https://github.com/capg84/team-profile-generator/tree/main/dist/index.html).
 
   ## Questions
   If you have any questions about this projects, please feel free to contact me directly.
