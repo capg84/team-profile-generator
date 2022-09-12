@@ -26,10 +26,13 @@
   The application is tested for errors and does not need any further testing at this stage.
 
   ## Application walkthrough video
-  The application walkthrough video can be viewed [here](#).
+  The application walkthrough video can be viewed [here](https://drive.google.com/file/d/16xnxBC_P_o3O9q4jZQ3FxC1HzgvC6Tik/view).
 
   ## index.html generated using the application
-  The index.html generated using the application can be found [here](https://github.com/capg84/team-profile-generator/tree/main/dist/index.html).
+  The `index.html` generated using the application can be found [here](https://github.com/capg84/team-profile-generator/tree/main/dist/index.html).
+
+  ### Screenshot of `index.html`
+  ![this image](/assets/images/one-team-webpage.png)
 
   ## Questions
   If you have any questions about this projects, please feel free to contact me directly.
